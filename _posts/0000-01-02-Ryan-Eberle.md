@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to your Second Slider!"
 ---
-Your text
+Don't Give Up the Ship
 Use the Left Arrow to go back!
